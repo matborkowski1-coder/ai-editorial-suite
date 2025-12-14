@@ -1,4 +1,4 @@
-# AI editorial suite
+# AI Editorial Suite
 Domain-specific LLM workflows for scientific publishing and editorial QA
 This repository contains domain-specific LLM workflows designed to support scientific editorial processes, including manuscript pre-review, quality checks,journal selection, and formal correspondence.
 
